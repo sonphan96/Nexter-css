@@ -1,6 +1,7 @@
 --- Features
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+Tenetur distinctio necessitatibus pariatur voluptatibus.
 
 Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.
 
